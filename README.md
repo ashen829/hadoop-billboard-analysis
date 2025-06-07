@@ -4,6 +4,13 @@ This project implements a MapReduce job to analyze the Billboard Hot 100 dataset
 
 ---
 
+## Registration Numbers
+```bash
+EG/2020/4092 - Nehara S.A.T
+EG/2020/4095 - Nethsara R.A.A
+EG/2020/4097 - Nettasinghe N.A.O.D
+```
+
 ## Dataset Used
 
 **Source**: [Kaggle - Billboard Hot 100 Songs](https://www.kaggle.com/datasets/dhruvildave/billboard-the-hot-100-songs)
